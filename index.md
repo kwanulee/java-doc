@@ -10,8 +10,8 @@
 ## 2주 - Java 프로그래밍 기초 I
 - [자바 프로그램 기본](java-program-structure.html)
 - [변수와 데이터타입](variable-type.html) 
-- [식과 연산](expression.html)
-- [자바 프로그래밍 기초 실습](programming-basic-practice.md)
+- [식과 연산](expressions.html)
+- [자바 프로그래밍 기초 실습](programming-basic-practice.html)
 
 ## 3주 - Java 프로그래밍 기초 II
 -  자바의 키 입력
