@@ -5,7 +5,7 @@
 ## 1주 - Java 언어 소개 및 환경 설정
 
 - [자바 소개](start-java.pdf) 
-- [자바 프로그램 작성 및 실행 (실습)](start-java-practice.html) 
+- [자바 프로그램 작성 및 실행 (실습)](start-java-practice.md) 
 
 ## 2주 - Java 프로그래밍 기초 I
 - [자바 프로그램 기본](java-program-structure.md)
