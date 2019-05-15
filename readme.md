@@ -16,7 +16,7 @@
 ## 3주 - Java 프로그래밍 기초 II
 -  [자바의 키 입력](java-input.md)
 -  [조건문](condition-statement.md)
--  실습
+-  [실습](condition-practice.md)
  
  
 ## 4주 - 반복문
