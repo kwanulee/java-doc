@@ -90,6 +90,7 @@
 ## 2. **while** 문
 - while 문의 구성과 코드 사례
 	- 조건식이 ‘참’인 동안 반복 실행
+	
 	<img src="figure/while.png" width = 600>
 
 
@@ -130,11 +131,11 @@
 1. 다음 코드의 출력을 쓰시오.
 
 	```java
-		int n = 10;
-		while (n>0) {
-			System.out.println(n);
-			n = n - 3;
-		}
+	int n = 10;
+	while (n>0) {
+		System.out.println(n);
+		n = n - 3;
+	}
 	```
 2. 위와 동일한 결과가 나올 수 있도록 프로그램을 **for** 문과 **do-while** 문으로 변경하시오
 
