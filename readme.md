@@ -27,13 +27,13 @@
 - [예외 처리](exception.md)
 
 ## 6주 - 클래스와 객체 I
-- [클래스와 객체](클래스와 객체.pdf)
-- [메소드와 필드](메소드와 필드.pdf)
+- [클래스와 객체](class_object.pdf)
+- [메소드와 필드](method_field.pdf)
 
 
 ## 7주 - 클래스와 객체 II
-- [생성자와 접근제어](생성자와 접근제어.pdf)
+- [생성자와 접근제어](constructor_encapsulation.pdf)
 
 ## 8주 클래스와 상속, 성과발표회 
-- [클래스 상속](클래스 상속.pdf)
+- [클래스 상속](inheritance.pdf)
 - 성과발표회
