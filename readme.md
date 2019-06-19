@@ -36,4 +36,4 @@
 
 ## 8주 클래스와 상속, 성과발표회 
 - [클래스 상속](inheritance.pdf)
-- 성과발표회
+- [성과발표회](https://forms.gle/XnFbnu8E9xqvdpob8)
